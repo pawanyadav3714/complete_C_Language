@@ -1,0 +1,8 @@
+variable can start only from an alphabet or a symbol (_)
+variable naming me aap special character only underscore hi use kr skte ho..
+
+
+keywords:-
+Auto, double, int, break, continue, extern, enum, unsigned, case, sizeof, for, do, if
+else, signed,do, short, switch, char, goto, struct, union, return, register,while, float
+doubnle, default, typeof...
