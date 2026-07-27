@@ -1,2 +1,0 @@
-composite number :- 1, and itself and any other.. ex-> 4 => 1,4,2
-prime number :- 1, and itself ex:=> 2,3,5, 7, 11, 13,  
